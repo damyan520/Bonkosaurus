@@ -1,2 +1,3 @@
 # Bonkosaurus
-A fun caveman smash game 
+
+Bonkosaurus - Stone Age Smash-Up, a fun caveman smash game by Togi Clips.
